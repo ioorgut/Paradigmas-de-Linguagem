@@ -1,2 +1,2 @@
-# Paradigmas-de-Programa-o
+# Paradigmas-de-Linguagem
 repositorio salvando os trabalhos feitos nas aulas
