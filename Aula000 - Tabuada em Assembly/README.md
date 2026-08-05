@@ -1,5 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/30764793/README.1.md)
-
 # Paradigmas-de-Linguagem
 
 ### Paradigma: procedural e imperativo
